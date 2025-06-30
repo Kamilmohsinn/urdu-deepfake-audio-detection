@@ -1,6 +1,3 @@
-Here's a neatly formatted `README.md` content that you can use for your repository on "Deepfakes & Predicting Software Defects with Machine Learning and ML Classification Pipeline":
-
----
 
 # Deepfakes & Predicting Software Defects with Machine Learning
 
